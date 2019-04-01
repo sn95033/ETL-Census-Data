@@ -1,4 +1,4 @@
-,County Name,State_FIPS,County_FIPS,Med_Home_Value,Med_Rent,Home Own Rate
+Index,County_Name,State_FIPS,County_FIPS,Med_Home_Value,Med_Rent,"Home Ownership Rate, %"
 0,San Francisco,06,075,1104100,1836,36.5
 1,Alameda,06,001,781000,1745,53.3
 2,San Mateo,06,081,1087100,2259,59.1
