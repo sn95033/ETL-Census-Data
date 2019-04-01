@@ -1,0 +1,11 @@
+,State/County FIPS,State FIPS,County FIPS,County Name,State Name,# Migrated from SF County (2017),Margin of Error (+/-)
+0,'06001','06','001',Alameda,California,10791,1127
+1,'06081','06','081',San Mateo,California,8995,1054
+2,'06013','06','013',Contra Costa,California,4085,631
+3,'06037','06','037',Los Angeles,California,3726,547
+4,'06085','06','085',Santa Clara,California,3383,447
+5,'36061','36','061',NY (Manhattan),New York,1419,657
+6,'53033','53','033',King,Washington,1293,336
+7,'41051','41','051',Multnomah,Oregon,1094,282
+8,'36047','36','047',Kings (Brooklyn),New York,887,300
+9,'17031','17','031',Cook,Illinois,635,223
