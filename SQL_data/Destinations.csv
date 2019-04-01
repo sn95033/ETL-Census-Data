@@ -1,11 +1,11 @@
-Index,State/County FIPS,State_FIPs,County_FIPS,County_Name,State_Name,#_Migrated_from _SF_County_(2017),Margin of Error (+/-),#_Migrated_from_SF_County_(2017)
-0,'06001','06','001',Alameda,California,10791.0,1127,
-1,'06081','06','081',San Mateo,California,8995.0,1054,
-2,'06013','06','013',Contra Costa,California,4085.0,631,
-3,'06037','06','037',Los Angeles,California,3726.0,547,
-4,'06085','06','085',Santa Clara,California,3383.0,447,
-5,'36061','36','061',NY (Manhattan),New York,,657,1419.0
-6,'53033','53','033',King,Washington,,336,1293.0
-7,'41051','41','051',Multnomah,Oregon,,282,1094.0
-8,'36047','36','047',Kings (Brooklyn),New York,,300,887.0
-9,'17031','17','031',Cook,Illinois,,223,635.0
+index,state_county_fips,state_fips,county_fips,county_name,state_name,#_migrated_(2017),margin_of_error
+0,6001,6,1,Alameda,California,10791,1127
+1,6081,6,81,San Mateo,California,8995,1054
+2,6013,6,13,Contra Costa,California,4085,631
+3,6037,6,37,Los Angeles,California,3726,547
+4,6085,6,85,Santa Clara,California,3383,447
+5,36061,36,61,NY (Manhattan),New York,1419,657
+6,53033,53,33,King,Washington,1293,336
+7,41051,41,51,Multnomah,Oregon,1094,282
+8,36047,36,47,Kings (Brooklyn),New York,887,300
+9,17031,17,31,Cook,Illinois,635,223
