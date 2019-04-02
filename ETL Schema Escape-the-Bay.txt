@@ -6,11 +6,10 @@
 -- two dots ('..' - without quotes).
 
 CREATE TABLE "destinations" (
-    "index" INTEGER   NOT NULL,
+    "county_name" VARCHAR(255)   NOT NULL,
     "state_county_fips" VARCHAR(255)   NOT NULL,
     "state_fips" VARCHAR(255)   NOT NULL,
     "county_fips" VARCHAR(255)   NOT NULL,
-    "county_name" VARCHAR(255)   NOT NULL,
     "state_name" VARCHAR(255)   NOT NULL,
     "number_migrated_2017" INTEGER   NOT NULL,
     "margin_of_error" INTEGER   NOT NULL,

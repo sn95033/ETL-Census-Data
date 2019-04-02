@@ -1,12 +1,12 @@
-,state_county_fips,state_fips,county_fips,county_name,state_name,number_migrated_2017,margin_of_error
-0,6001,6,1,Alameda CA,California,10791,1127
-1,6081,6,81,San Mateo CA,California,8995,1054
-2,6013,6,13,Contra Costa CA,California,4085,631
-3,6037,6,37,Los Angeles CA,California,3726,547
-4,6085,6,85,Santa Clara CA,California,3383,447
-5,36061,36,61,NY (Manhattan) NY,New York,1419,657
-6,53033,53,33,King WA,Washington,1293,336
-7,41051,41,51,Multnomah OR,Oregon,1094,282
-8,36047,36,47,Kings (Brooklyn) NY,New York,887,300
-9,17031,17,31,Cook IL,Illinois,635,223
-10,6075,6,75,San Francisco CA,California,0,0
+county_name,state_county_fips,state_fips,county_fips,state_name,number_migrated_2017,margin_of_error
+Alameda CA,6001,6,1,California,10791,1127
+San Mateo CA,6081,6,81,California,8995,1054
+Contra Costa CA,6013,6,13,California,4085,631
+Los Angeles CA,6037,6,37,California,3726,547
+Santa Clara CA,6085,6,85,California,3383,447
+NY (Manhattan) NY,36061,36,61,New York,1419,657
+King WA,53033,53,33,Washington,1293,336
+Multnomah OR,41051,41,51,Oregon,1094,282
+Kings (Brooklyn) NY,36047,36,47,New York,887,300
+Cook IL,17031,17,31,Illinois,635,223
+San Francisco CA,6075,6,75,California,0,0
